@@ -1,0 +1,17 @@
+@media tela e (largura máxima:700px) {
+    cabeçalho . recipiente{
+        display: flex;
+        flex-direção: coluna;
+    }
+
+ . botão{
+        margem-superior: 5px;
+        largura: 300px;
+    }
+}
+
+@media tela e (largura mínima: 1000px) {
+ . descricao{
+        largura: 50%;
+    }
+}
