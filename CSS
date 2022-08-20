@@ -1,0 +1,104 @@
+:raiz{
+    -Vermelho: #e50914;
+    -Preto: #141414;
+}
+
+*{
+    margem: 0;
+    preenchimento: 0;
+    tamanho de caixa: border-box;
+}
+
+/*Base do site*/
+corpo{
+    fundo: var(-preto);
+    fonte-família: 'Arial', Times, serif;
+    cor: branco;
+}
+
+cabeçalho . recipiente{
+    display: flex;
+    flex-direção: linha;
+    itens de alinhamento: centro;
+    conteúdo-justificativa: espaço-entre;
+}
+
+cabeçalho . logotipo{
+    margem-esquerda: 5px;
+    cor: var(--vermelho);
+    fonte-família: 'Arial Black', Times;
+    tamanho da fonte: 40px;
+}
+
+cabeçalho nav um{
+    text-decoração: nenhum;
+    cor:#aaa;
+    margem-direita: 10px;
+}
+
+cabeçalho nav a:pairar{
+    cor:#fff;
+}
+
+/*Filme principal*/
+
+. filme-principal{
+    tamanho da fonte: 16px;
+    fundo: gradiente linear (rgba(  0,0,0,50),rgba(0,0,0,50)), url('.. /img/drhouse.jpg');
+    altura: 400px;
+    tamanho de fundo: cobertura;
+    
+    display: flex;
+    flex-direção: coluna;
+    justificar-conteúdo: centro;
+    conteúdo de alinhamento: flex-start;
+}
+
+. filme-principal . descricao{
+    margem-superior: 10px;
+    margem-inferior: 40px;
+}
+
+. filme-principal . titulo{
+    margem superior: 15%;
+    tamanho da fonte: 40px;
+}
+
+. botão{
+    cor de fundo: rgba (0,0,0,,50);
+    fronteira: nenhuma;
+    cor: branco;
+    preenchimento: 15px 30px;
+    margem-direita: 15px;
+    tamanho da fonte: 12px;
+
+    cursor: ponteiro;
+    transição: .3s facilidade todos;
+}
+
+. botão:pairar{
+    cor de fundo: branco;
+    cor: preto;
+}
+
+. botao i{
+    margem-direita: 8px;
+}
+
+. recipiente{
+    margem-esquerda: 30px;
+}
+
+. filme-principal . recipiente{
+    largura: 70%;
+}
+
+. box-filme{
+    altura: 100%;
+    largura: 100%;
+    exibição: bloco;
+}
+
+. carrosel-filmes{
+    margem-superior: 5px;
+}
