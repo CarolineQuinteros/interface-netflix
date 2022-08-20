@@ -1,0 +1,6 @@
+/**
+ * Carrossel coruja v2.3.4
+ * Copyright 2013-2018 David Deutsch
+ * Licenciado em: VER LICENÇA EM https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE
+ */
+. tema coruja. coruja-pontos,. tema coruja. owl-nav{text-align:center; -webkit-tap-highlight-color:transparent}. tema coruja. coruja-nav{margem-top:10px}. tema coruja. coruja-nav [class*=owl-]{cor:#FFF; tamanho da fonte:14px; margem:5px; preenchimento:4px 7px; plano de fundo:#D6D6D6; exibição:bloco de linha; cursor:ponteiro; raio-fronteira:3px}. tema coruja. coruja-nav [class*=owl-]:hover{background:#869791; cor:#FFF; text-decoração:none}. tema coruja. coruja-nav . desabilitado{opacidade:.5; cursor:default}. tema coruja. coruja-nav. desabilitado+. coruja-pontos{margem-top:10px}. tema coruja. coruja-pontos. owl-dot{display:inline-block; zoom:1}. tema coruja. coruja-pontos. cinza-coruja-ponto{largura:10px; altura:10px; margem:5px 7px; plano de fundo:#D6D6D6; display:bloquear; -webkit-backface-visibilidade:visível; transição:opacidade .2s facilidade; raio-fronteira:30px}. tema coruja. coruja-pontos. coruja-ponto. extensão ativa,. tema coruja. coruja-pontos. coruja-ponto:comprimento de pairar{fundo:#869791}
